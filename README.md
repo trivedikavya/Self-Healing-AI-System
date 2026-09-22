@@ -54,7 +54,7 @@ This is a multi-agent system composed of three distinct agents:
 
 ---
 
-## 3. 🏆 Project Evaluation & Score Analysis
+## 3. Project Evaluation & Score Analysis
 *A self-assessment of how this project meets the winning criteria.*
 
 ### **Category 1: The Pitch (30 Points)**
